@@ -14,6 +14,7 @@ pinned: false
 
 AgriBot is an intelligent chatbot designed to assist farmers by providing hyper-local agricultural insights, weather forecasts, market prices, and crop advisory.  
 It integrates multiple APIs with an LLM backend to deliver **actionable, real-time guidance**.
+Demo link-https://huggingface.co/spaces/daksh1010/agribot
 
 ---
 
